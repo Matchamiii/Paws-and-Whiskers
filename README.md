@@ -1,5 +1,7 @@
 GOOD DAY MAAM!
 
+"Our site is dedicated to providing excellent care for your pets, meeting all their needs while ensuring their health is always a priority. We offer both in-person services, including pet walks, and an online shop for all your pet care essentials."
+
 This is our Project Paws-and-Whiskers By Rj S. Gregori, Rhayvent Quitain, Crizayra Madayag, Alyssa Marie Agarado, Marienella Lustria
 
  This is Enter Site
